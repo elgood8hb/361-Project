@@ -60,7 +60,7 @@ public class DatabaseServer
             Connection con = DriverManager.getConnection(url,user,password);     
           
            ResultSetProcessing rs = new ResultSetProcessing();
-           rs.format(query.execute(queryString, con));
+           rs.format(query.execute(queryString, con)); //assuming the Query class will have a method called execute taking A query string maybe?
            
            
 // Statement stmt = con.createStatement();
