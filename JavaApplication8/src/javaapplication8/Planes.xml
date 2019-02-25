@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<planes>
+  <plane>
+    <date>2/20/19</date>
+    <name id="Cesna1">
+      <flight-hours>325</flight-hours>
+      <fhm>175</fhm>
+      <next-maint>400</next-maint>
+      <rebuild>675</rebuild>
+    </name>
+  </plane>
+  <plane>
+    <date>2/20/19</date>
+    <name id="Cesna2">
+      <flight-hours>457</flight-hours>
+      <fhm>43</fhm>
+      <next-maint>500</next-maint>
+      <rebuild>543</rebuild>
+    </name>
+  </plane>
+  <plane>
+    <date>2/20/19</date>
+    <name id="Cesna3">
+      <flight-hours>677</flight-hours>
+      <fhm>323</fhm>
+      <next-maint>700</next-maint>
+      <rebuild>323</rebuild>
+    </name>
+  </plane>
+</planes>

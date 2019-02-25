@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customers>
+  <customer>
+    <date>1/13/19</date>
+    <name id="John">
+    <flight-hours>0</flight-hours>
+	<bill>100</bill>
+	</name>
+  </customer>
+  <customer>
+    <date>1/13/19</date>
+    <name id="Sam">
+    <flight-hours>0</flight-hours>
+	<bill>80</bill>
+	</name>
+  </customer>
+  <customer>
+    <date>1/13/19</date>
+    <name id="Bob">
+    <flight-hours>0</flight-hours>
+	<bill>100</bill>
+	</name>
+  </customer>
+</customers>

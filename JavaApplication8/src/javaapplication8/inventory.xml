@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Inventory>
+ <part>
+    <date>1/13/19</date>
+    <name>Oil Filter</name>
+    <quantity>2</quantity>
+	<price>25.00</price>
+	<cost>50.00</cost>
+  </part>
+</Inventory>

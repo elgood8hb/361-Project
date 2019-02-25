@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pilots>
+  <pilot>
+    <date>2/20/19</date>
+    <name id="Kasten">
+      <certificate>FAA</certificate>
+      <expiration-date>2022</expiration-date>
+	    <salary>20.0</salary>
+	    <hours>113</hours>
+	    <pay>2260.0</pay>
+    </name>
+  </pilot>
+  <pilot>
+    <date>2/20/19</date>
+    <name id="Bartell">
+      <certificate>FAA</certificate>
+      <expiration-date>2019</expiration-date>
+	    <salary>18.0</salary>
+	    <hours>108</hours>
+	    <pay>1944.0</pay>
+    </name>
+  </pilot>
+  <pilot>
+    <date>2/20/19</date>
+    <name id="Cantor">
+      <certificate>FAA</certificate>
+      <expiration-date>2020</expiration-date>
+	    <salary>19.0</salary>
+	    <hours>130</hours>
+	    <pay>2470.0</pay>
+    </name>
+  </pilot>
+</pilots>

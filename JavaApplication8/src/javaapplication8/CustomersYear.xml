@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customers>
+  <customer>
+    <date>2/20/19</date>
+    <name id="Kasten">
+      <flight-hours>25</flight-hours>
+      <bill>500.0</bill>
+    </name>
+  </customer>
+  <customer>
+    <date>2/20/19</date>
+    <name id="Bartell">
+      <flight-hours>0</flight-hours>
+      <bill>80.0</bill>
+    </name>
+  </customer>
+  <customer>
+    <date>2/20/19</date>
+    <name id="Cantor">
+      <flight-hours>0</flight-hours>
+      <bill>100.0</bill>
+    </name>
+  </customer>
+</customers>
